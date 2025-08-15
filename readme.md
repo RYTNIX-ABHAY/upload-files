@@ -6,8 +6,11 @@ A simple Node.js + Express backend to upload files using Multer and store them i
 Upload files via /upload endpoint
 
 Uses Multer for temporary local storage
+
 Uploads to Cloudinary for permanent hosting
+
 Deletes local file after successful upload
+
 Returns Cloudinary file URL in response
 
 
